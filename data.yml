@@ -1,11 +1,10 @@
-title : Site Title
-tagline: Site Tagline
+title : Jacksong
+tagline: ruby pagespeed
 author :
-  name : First-name Last-name
-  email : blah@email.test
-  github : username
-  twitter : username
-  feedburner : feedname
+  name : Jacksong
+  email : sjtusxmh@gmail.com
+  github : rivid
+  twitter : rivid
 
 navigation :
   - archive
